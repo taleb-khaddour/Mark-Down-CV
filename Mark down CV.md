@@ -67,6 +67,10 @@ networking.
 
 * Networking
 
+* speaking
+
+* typing
+
 
 
 # Languages
